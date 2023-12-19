@@ -1,0 +1,6 @@
+nav ul li a:hover{
+    color: brown !important;
+    background-color: azure;
+    border-radius: 50%;
+    
+}

@@ -1,0 +1,31 @@
+.bgimage{
+    background-image: url('/src/assets/bannar1.png');
+    height:500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    /* opacity:0.7; */
+}
+.offer{
+    color: rgb(6, 6, 6);
+    text-align: center;
+    padding-top: 60px;
+    font-weight: 900;
+}
+.offer2{
+   display: flex;
+   margin-top:200px;
+   margin-left: 380px; 
+  
+}
+.buttonReward{
+    
+    padding: 11px;
+    width:280px;
+    height: 66px;
+    color: white;
+    font-size: 16px;
+    
+}
